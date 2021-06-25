@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+      <class name="qaclickacademy.Selenium_Test">
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:qaclickacademy.Selenium_Test@4387b79e]" name="elementsUI" duration-ms="1" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method status="PASS" signature="browser_Auto()[pri:0, instance:qaclickacademy.Selenium_Test@4387b79e]" name="browser_Auto" duration-ms="0" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_Auto -->
+      </class> <!-- qaclickacademy.Selenium_Test -->
+      <class name="qaclickacademy.RESTAPI_Test">
+        <test-method status="PASS" signature="delete_Twitter()[pri:0, instance:qaclickacademy.RESTAPI_Test@4f638935]" name="delete_Twitter" duration-ms="1" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Twitter -->
+        <test-method status="PASS" signature="postJeer()[pri:0, instance:qaclickacademy.RESTAPI_Test@4f638935]" name="postJeer" duration-ms="1" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJeer -->
+      </class> <!-- qaclickacademy.RESTAPI_Test -->
+      <class name="qaclickacademy.Appium_Test">
+        <test-method status="PASS" signature="IOS()[pri:0, instance:qaclickacademy.Appium_Test@1460a8c0]" name="IOS" duration-ms="12" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS -->
+        <test-method status="PASS" signature="NAtiveAppAndroid()[pri:0, instance:qaclickacademy.Appium_Test@1460a8c0]" name="NAtiveAppAndroid" duration-ms="2" started-at="2021-06-02T02:32:51Z" finished-at="2021-06-02T02:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NAtiveAppAndroid -->
+      </class> <!-- qaclickacademy.Appium_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
